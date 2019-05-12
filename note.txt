@@ -1,0 +1,4 @@
+middleware
+
+model: connect database
+controller: operations for routes, validatiion of input
